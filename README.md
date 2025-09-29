@@ -42,6 +42,8 @@ Para instalar as dependências, treinar o modelo e iniciar o MVP, siga as instru
 
 ### Instruções de Instalação
 
+Para rodar localmente, coloque applicants.json, prospects.json e vagas.json na pasta data
+
 As dependências (incluindo `scikit-learn`, `imbalanced-learn`, e `streamlit`) estão listadas no arquivo `requirements.txt`.
 
 1.  **Instalar dependências:**
